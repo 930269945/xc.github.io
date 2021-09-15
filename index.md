@@ -30,9 +30,9 @@
  - 职业：学生
  - 星座：双鱼座
  - 年龄：21
- -  
+
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人爱好 
 
- -乒乓球
- -撸猫
- -听歌和唱歌
+ - 乒乓球
+ - 撸猫
+ - 听歌和唱歌
