@@ -36,3 +36,9 @@
  - 乒乓球
  - 撸猫
  - 听歌和唱歌
+ 
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px">教育经历
+ - 专科：南京信息职业技术学院，机电一体化技术专业 
+ - 本科：南京工业职业技术大学，软件工程专业
+
+
