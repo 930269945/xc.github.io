@@ -12,12 +12,12 @@
          </span>
          ·
          <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <img src="https://img1.baidu.com/it/u=2452800252,2672934194&fm=26&fmt=auto&gp=0.jpg" width="18px">
              <a href="https://github.com/930269945">我的Github</a>
          </span>
          ·
          <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <img src="https://img1.baidu.com/it/u=2452800252,2672934194&fm=26&fmt=auto&gp=0.jpg" width="18px">
              <a href="https://930269945.github.io/xc.github.io/">我的博客</a>
          </span>
      </div>
