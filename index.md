@@ -13,7 +13,7 @@
          ·
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
-             <a href="https://github.com/mqxu">我的Github</a>
+             <a href="https://github.com/930269945">我的Github</a>
          </span>
          ·
          <span>
